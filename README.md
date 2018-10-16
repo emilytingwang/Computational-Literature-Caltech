@@ -1,4 +1,5 @@
-# Computational Literature Caltech
+# Projects from CS87 - Computational Literature
+## Instructor: Eran Hadas
 ## Authors: Emily Wang and Shannon Wang
 ### emilywang@rice.edu, shannonawang@yahoo.com
 
